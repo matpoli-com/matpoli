@@ -1,3 +1,5 @@
 <template>
-    Main page
+    <div class="text-lg">
+        Main page
+    </div>
 </template>
