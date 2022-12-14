@@ -11,6 +11,7 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
+    "@nuxtjs/supabase": "^0.3.0",
     "@pinia/nuxt": "^0.4.6",
     "nuxt-windicss": "^2.6.0"
   }
